@@ -12,24 +12,29 @@ As the application server market matures, high performance becomes a stronger cr
 
  1. login to the network server using login link  https://iot.saveetha.in/
  2.  click on the Application server as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
+  ![image](https://github.com/Lingeswaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119103865/7a7a7dd6-eb17-4d42-8a27-f1c051f94371)
+
  3.Click on the Add dashboard option as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8006c218-4cfd-48b8-b0f1-34fd29f0a181)
+   ![image](https://github.com/Lingeswaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119103865/36770e84-dd43-4120-9f14-f495031db656)
+
  4.After creating dash board , using the edit option on the right corner  add the widgets as shown 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/16621142-3281-4164-9927-65bf4e1ea13d)
+   ![image](https://github.com/Lingeswaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119103865/456b6300-d5a7-4d0e-b8a6-c43b841aa108)
+
 
 5. After addition of the widget on the data dash board the data should appear as shown belwo 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/f9f02c5b-ae17-436f-be3a-17c5e66d63a0)
 6. Create a query as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/ceead64a-e6a1-403d-864e-2526f8b39930)
+  ![image](https://github.com/Lingeswaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119103865/a79494bb-d816-4fe3-bd97-ce023849b8d7)
+
 7. Using the visualization editor modify as per the requirements 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
+  ![image](https://github.com/Lingeswaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119103865/09d7cd95-666c-4bbc-a1b1-6ffb351abcaf)
+
 8. save to update the visualization on the dashboard as shown in the output 
 
 
 ## OUTPUT 
  
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![image](https://github.com/Lingeswaran04/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119103865/dece5742-1c6d-41db-857c-5e186129072e)
+
 
 
 
